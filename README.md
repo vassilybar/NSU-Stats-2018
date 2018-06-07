@@ -1,1 +1,1 @@
-# Stats calculating task MMF NSU 17-18
+# MMF NSU 17-18 stats class calculating task 
