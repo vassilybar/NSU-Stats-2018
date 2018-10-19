@@ -1,1 +1,1 @@
-# MMF NSU 17-18 stats calculating task 
+# STATISTICS MMF NSU Spring 2018 assignment
