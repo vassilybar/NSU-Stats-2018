@@ -1,1 +1,1 @@
-# Statistics MMF NSU Spring 2018 assignment
+# Final assignment STATS MMF NSU Spring 2018 
